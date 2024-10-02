@@ -1,4 +1,6 @@
 # Aliases extracted from modules themselves.
+alias of:N*T*Cmediatek,geniezone-hyp gzvm
+alias of:N*T*Cmediatek,geniezone-hypC* gzvm
 alias rtnl-link-can can_dev
 alias rtnl-link-vcan vcan
 alias tty-ldisc-17 slcan
@@ -1269,5 +1271,3 @@ alias rtnl-link-lowpan ieee802154_6lowpan
 alias net-pf-36 ieee802154_socket
 alias net-pf-39 nfc
 alias net-pf-16-proto-16-family-nfc nfc
-alias of:N*T*Cmediatek,geniezone-hyp gzvm
-alias of:N*T*Cmediatek,geniezone-hypC* gzvm

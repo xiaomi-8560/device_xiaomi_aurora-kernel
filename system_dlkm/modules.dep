@@ -1,3 +1,4 @@
+kernel/arch/arm64/geniezone/gzvm.ko:
 kernel/kernel/kheaders.ko:
 kernel/mm/zsmalloc.ko:
 kernel/lib/crypto/libarc4.ko:
@@ -57,4 +58,3 @@ kernel/net/ieee802154/ieee802154.ko:
 kernel/net/ieee802154/ieee802154_socket.ko: kernel/net/ieee802154/ieee802154.ko
 kernel/net/mac802154/mac802154.ko: kernel/net/ieee802154/ieee802154.ko
 kernel/net/nfc/nfc.ko: kernel/net/rfkill/rfkill.ko
-kernel/arch/arm64/geniezone/gzvm.ko:
